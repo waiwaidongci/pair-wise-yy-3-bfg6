@@ -26,9 +26,18 @@
               "step": "切割",
               "note": "完成粗切"
             }
-          ]
+          ],
+          "damaged": false
         }
-      ]
+      ],
+      "history": []
     }
-  ]
+  ],
+  "labels": [],
+  "observers": [],
+  "registrations": [],
+  "loans": [],
+  "tasks": [],
+  "deliveries": [],
+  "reslices": []
 }
