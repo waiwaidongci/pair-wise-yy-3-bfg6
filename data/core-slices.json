@@ -15,6 +15,9 @@
           "method": "茜素红染色",
           "observation": "",
           "status": "研磨",
+          "circulation": "在库",
+          "boxPosition": "BX-09-A-03",
+          "labelCode": "LB-0001",
           "logs": [
             {
               "at": "2026-06-12T10:00:00.000Z",
@@ -30,5 +33,25 @@
         }
       ]
     }
-  ]
+  ],
+  "labels": [
+    {
+      "code": "LB-0001",
+      "sampleId": "CORE-001",
+      "sliceId": "SL-001-A",
+      "status": "有效",
+      "createdAt": "2026-06-12T10:05:00.000Z",
+      "voidedAt": null,
+      "replaces": null,
+      "replacedBy": null,
+      "history": [
+        {
+          "at": "2026-06-12T10:05:00.000Z",
+          "event": "绑定",
+          "note": "绑定切片 SL-001-A（东岭铜矿薄片）"
+        }
+      ]
+    }
+  ],
+  "loans": []
 }
